@@ -21,7 +21,7 @@ in this proyect we'll be define and train a DCGAN on a dataset of faces. The goa
 * **Learning Rate: 0.0001**
 * **Batch Size : 32**
 
-
+![](https://raw.githubusercontent.com/lcarcamo1526/Celeb-faces-generator/master/model_accuracy.png)
 
 
 # Datasets
@@ -76,7 +76,9 @@ in this proyect we'll be define and train a DCGAN on a dataset of faces. The goa
 
 -----
 
-## Sample Output
+## Output
+
+![](https://raw.githubusercontent.com/lcarcamo1526/Celeb-faces-generator/master/Samples_output.png)
 
 
 
