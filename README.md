@@ -10,6 +10,7 @@ in this proyect we'll be define and train a DCGAN on a dataset of faces. The goa
 
 
 ## Specs:
+* **OS**: Arch Linux
 * **GPU**: Nvidia GTX 1060 3G
 *  **RAM** 16 GB DDR4
 * **CPU**: CPU RYZEN 2600 12 CORES
